@@ -5,4 +5,4 @@ return "Hello, my name is #{name}."
 
 end 
 
-batch_badge_creator(attendees)
+def batch_badge_creator(attendees)
