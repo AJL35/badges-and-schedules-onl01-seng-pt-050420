@@ -7,6 +7,5 @@ end
 
 
 def batch_badge_creator(attendees, badges)
-  attendees.
-  
-  return badges
+  attendees.return
+ end 
